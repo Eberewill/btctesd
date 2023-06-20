@@ -37,7 +37,7 @@
 @import url("../icons/material-design-iconic-font/css/materialdesignicons.min.css");
 @import url("../icons/flag-icon-css/flag-icon.min.css");
 :root {
-  --blue: #007bff;
+  --blue: #091a2c;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -53,7 +53,7 @@
   --primary: #5d78ff;
   --secondary: #673BB7;
   --success: #10d876;
-  --info: #2754e6;
+  --info: #04113b;
   --warning: #FE9431;
   --danger: #E50202;
   --light: #f8f9fa;
